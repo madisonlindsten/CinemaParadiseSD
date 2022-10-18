@@ -18,7 +18,7 @@ Check out [API LIVE DEMO](https://CinemaParadiseBack.madisonlindsten.repl.co) he
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/cenemaparadeso/Cenema-Paradiso.git
+git clone https://github.com/madisonlindsten/CinemaParadiseBack.git
 ```
 2. Backend setting
 ```
